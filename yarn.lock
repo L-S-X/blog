@@ -267,31 +267,31 @@
     use-sync-external-store "^1.2.0"
 
 "@trpc/client@^10.26.0":
-  version "10.34.0"
-  resolved "https://registry.npmmirror.com/@trpc/client/-/client-10.34.0.tgz#cd9bc5ec4801dde24bb343408c7fe203595db538"
-  integrity sha512-nqtDTIqSY/9syo2EjSy4WWWXPU9GsamEh9Tsg698gLAh1nhgFc5+/YYeb+Ne1pbvWGZ5/3t9Dcz3h4wMyyJ9gQ==
+  version "10.35.0"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-10.35.0.tgz#34b65f83fc2b23dd6e79ee6fa3f56f5f6d3d2b81"
+  integrity sha512-FyVNQGLLsNourpYq7bojvvvpM63woCPL9c+lJo9x1Yheop5fng2GEyiVcVjCmBNk5tVARHjG9bTG1UeNF5t8OQ==
 
 "@trpc/next@^10.26.0":
-  version "10.34.0"
-  resolved "https://registry.npmmirror.com/@trpc/next/-/next-10.34.0.tgz#8b5943288954915a1a22d0d7129d585e1cca1135"
-  integrity sha512-8jQPedVkCYCAG6PXDEumG5ILeD1aYVC6/aApk5Y96eeqnmAtX7TO9grVRfGGNaISuTtJ/oIDmRfSRqo1eOU4OA==
+  version "10.35.0"
+  resolved "https://registry.yarnpkg.com/@trpc/next/-/next-10.35.0.tgz#32ab8950194a5e396cd804feb526122ccfd8890c"
+  integrity sha512-mUp7OrsF/vwxPOjZ6lP4X0XVxXA8N7PaWys6NgigUaKsGZ9pht5QyQNfprVpIv7PnSknLuICY/fKEBL9+zfH3A==
   dependencies:
     react-ssr-prepass "^1.5.0"
 
 "@trpc/react-query@^10.26.0":
-  version "10.34.0"
-  resolved "https://registry.npmmirror.com/@trpc/react-query/-/react-query-10.34.0.tgz#aa4e15d426cf5b320350cddb17bee48587c5c45d"
-  integrity sha512-dnp7CmCBXwBgd8nAjMoHWMJwQrvAzjP+f8EXKfJVF66y9FydTBTf4CuXRh+A4EgA5CZeu4Ecva4D61Eu2I13GA==
+  version "10.35.0"
+  resolved "https://registry.yarnpkg.com/@trpc/react-query/-/react-query-10.35.0.tgz#cfaf1f31b4fb9fc32d9a6578fb2bb86b1aa75f6e"
+  integrity sha512-tPC14UAIlrMlPZgN5TGOzcgqI4dEBUaJSmc+PjLmLfP+7vcNwOweCSdvq9gsDBCZf9aYq3Bf6KFi90ej+0ZUjQ==
 
 "@trpc/server@^10.26.0":
-  version "10.34.0"
-  resolved "https://registry.npmmirror.com/@trpc/server/-/server-10.34.0.tgz#0c56ca4a72f41bfc558b07a2db70d54b77077f8f"
-  integrity sha512-2VMW44Fpaoyqb50dBtzdSWMhqt8lmoJiocEyBBeDb03R0W+XrzbVD5kU/wqKPlcp1DWeNCkOEIMtetMZCfo1hA==
+  version "10.35.0"
+  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-10.35.0.tgz#b6ec61c84a70da0d9280205a91148c367a6f2c48"
+  integrity sha512-UntbE9gG+kB2nEwuJ0hw7AmQuRWw67voKaVBPBA7Ow6+aGZc00gva7015Ey5BT7Qf1wq7xJMLUdgw4QiVU+VpQ==
 
 "@types/eslint@^8.44.0":
-  version "8.44.0"
-  resolved "https://registry.npmmirror.com/@types/eslint/-/eslint-8.44.0.tgz#55818eabb376e2272f77fbf5c96c43137c3c1e53"
-  integrity sha512-gsF+c/0XOguWgaOgvFs+xnnRqt9GwgTvIks36WpE6ueeI4KCEHHd8K/CKHqhOqrJKsYH8m27kRzQEvWXAwXUTw==
+  version "8.44.1"
+  resolved "https://registry.yarnpkg.com/@types/eslint/-/eslint-8.44.1.tgz#d1811559bb6bcd1a76009e3f7883034b78a0415e"
+  integrity sha512-XpNDc4Z5Tb4x+SW1MriMVeIsMoONHCkWFMkR/aPJbzEsxqHy+4Glu/BqTdPrApfDeMaXbtNh6bseNgl5KaWrSg==
   dependencies:
     "@types/estree" "*"
     "@types/json-schema" "*"
@@ -2139,7 +2139,7 @@ react-is@^16.13.1:
 
 react-ssr-prepass@^1.5.0:
   version "1.5.0"
-  resolved "https://registry.npmmirror.com/react-ssr-prepass/-/react-ssr-prepass-1.5.0.tgz#bc4ca7fcb52365e6aea11cc254a3d1bdcbd030c5"
+  resolved "https://registry.yarnpkg.com/react-ssr-prepass/-/react-ssr-prepass-1.5.0.tgz#bc4ca7fcb52365e6aea11cc254a3d1bdcbd030c5"
   integrity sha512-yFNHrlVEReVYKsLI5lF05tZoHveA5pGzjFbFJY/3pOqqjGOmMmqx83N4hIjN2n6E1AOa+eQEUxs3CgRnPmT0RQ==
 
 react@18.2.0:
